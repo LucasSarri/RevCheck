@@ -1,0 +1,1 @@
+docker run --name revcheck -e POSTGRES_PASSWORD=revcheck -p 5433:5432 -d postgres
